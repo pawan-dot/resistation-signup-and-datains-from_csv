@@ -1,0 +1,11 @@
+body{
+   
+    padding-top: 11vh;
+    background-color: aliceblue;
+}
+
+.form-container{
+    padding:30px;
+    border-radius: 10px;
+
+}
